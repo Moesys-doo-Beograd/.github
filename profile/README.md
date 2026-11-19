@@ -1,67 +1,69 @@
 # Moesys
 
-**Your architecture and its requirements, in one place.**
+**Enterprise architecture driven by strategy and data, without the complexity.**
 
-Moesys is a browser-based workbench for enterprise and solution architects. Model your landscape, trace every requirement to the design, and keep your data under your control, in the EU.
+Moesys is where your organisation's architecture lives: what you have, what you are changing, and why. Architects, risk and compliance people, and everyone else who shapes the IT portfolio work from one landscape, and every decision can be traced to the goals, needs and requirements behind it.
 
 [Website](https://moesys.net) · [Plans](https://moesys.net/plans) · [Roadmap](https://moesys.net/roadmap) · [Start free trial](https://tool.moesys.net/start) · [Contact](https://moesys.net/contact)
 
 ## What Moesys does
 
-### Model the whole landscape, not just a drawing
+### Model your architecture on open standards
 
-Every diagram is a view of one shared model, so a change in one place shows everywhere. Use the frameworks your team already knows.
+Every diagram is a view of one shared model, so a change in one place shows everywhere.
 
-- One model behind every view
-- Supported frameworks, kept to their standards
+- ArchiMate and C4 today; BPMN and a simple language for non-architects *(coming soon)*
+- Model checks that catch mistakes early, and impact analysis before you change anything
 - Runs in your browser, nothing to install
 
-### Know which requirement drives which decision
+### Know why the architecture is as it is
 
-Bring your requirements in from a template and trace each one to the parts of the design that meet it. See at once what is covered and what is not.
+Trace each requirement to the parts of the design that meet it, and see at once what is covered and what is not.
 
-- Coverage across the whole design
-- Suspect links when something changes
-- History and baselines for every requirement
+- Requirements files with templates, history, baselines and coverage
+- Stakeholder needs and recorded decisions *(coming soon)*
 
-### See the impact before you change anything
+### One landscape, and the projects that change it *(coming soon)*
 
-Moesys checks your model as you work. Before a change, it shows every element and view that the change touches.
+- One landscape of applications, capabilities, technology and suppliers, each with an owner
+- Projects as dated planned changes: see the landscape as it is or as of any date, and spot clashes between projects
+- Goals and capability heatmaps to decide where to invest
 
-- Model checks that catch mistakes early
-- Impact analysis across elements and views
+### Decide with data *(coming soon)*
+
+- Risk register, and controls and regulations mapped to your applications and suppliers
+- End-of-life and vulnerability data on your technology
+- Data from the systems you already run, through an import API, file pickup and common integration platforms
+- AI that answers questions about your landscape and checks data quality, off until your admin turns it on, and never trained on your content
 
 ## Your architecture, under your control
-
-Your architecture describes how your organisation works. You decide where that knowledge lives and who can see it.
 
 | | |
 |---|---|
 | **Security** | Data encrypted in transit and at rest. We are working toward ISO/IEC 27001 and SOC 2. |
-| **Hosting in the EU** | Let us run Moesys for you. Your data is stored in the European Union, and there is nothing to install or maintain. |
-| **No lock-in** | Export your models and results as PDFs, images and spreadsheets at any time. Models follow open standards. |
-| **Your own servers** *(coming soon)* | Run Moesys on your own infrastructure with the Business and Enterprise plans. |
+| **Hosting in the EU** | Your data is stored in the European Union, and there is nothing to install or maintain. |
+| **No lock-in** | Export your models and results at any time. Models follow open standards. |
+| **Your own servers** *(coming soon)* | Run Moesys on your own infrastructure with the Enterprise plan. |
 
 ## Plans
 
-Pay only for the people who author models. Everyone who views is free, on every plan.
+Plans are priced by the size of your landscape, not by people. Everyone who takes part is included on paid plans.
 
-| Plan | For | Hosting |
-|---|---|---|
-| Team *(coming soon)* | Small teams getting started | Our cloud |
-| **Professional** | Architecture practices | Our cloud |
-| Business *(coming soon)* | Larger organisations | Our cloud, or your own servers |
-| Enterprise | Large organisations with their own policies | Our cloud, or your own servers |
+| Plan | For |
+|---|---|
+| Free *(coming soon)* | One architect trying Moesys |
+| **Professional** | Medium-sized businesses |
+| Enterprise | Large and regulated organisations: contact sales |
 
-Prices and limits are on [moesys.net/plans](https://moesys.net/plans).
+Details are on [moesys.net/plans](https://moesys.net/plans).
 
 ## Where Moesys is going
 
 We plan in themes, not dates. Customer requests shape the order.
 
-- **Now: teams working together.** Shared workspaces for your team, with your models and requirements brought in from the tools you use today.
-- **Next: one repository for the practice.** Review and sign-off, one catalogue across projects, and Moesys on your own servers.
-- **Later: ready for large organisations.** Enterprise identity, integrations with the tools you already use, and more notations.
+- **Now: a solid base.** Sign-in, encryption of all data, comments and reviews, and diagram editing that needs no training.
+- **Next: one landscape.** The landscape and its projects, planned changes and scenarios, roles your company defines, and import from spreadsheets.
+- **Later: decide with data.** Risk and compliance, integrations, AI, document generation and Enterprise hosting options.
 
 ## Contact
 
